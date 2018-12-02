@@ -1,4 +1,4 @@
-# HYF GIT
+﻿# HYF GIT
 
 Hack Your Future Git classwork.
 
@@ -123,3 +123,8 @@ Workflow:
 ## References
 - https://nl.atlassian.com/git/tutorials
 - https://git-scm.com/book/en/v2
+
+
+- a few new line
+- for new feature
+- end 
